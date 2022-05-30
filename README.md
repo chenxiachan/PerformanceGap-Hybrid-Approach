@@ -18,6 +18,6 @@ Additional python packages required:
 - plotly
 - lightgbm
 
-Please cite:
+For using data & code for your production, please cite:
 - Chen, Xia, et al. "A hybrid-model forecasting framework for reducing the building energy performance gap." Advanced Engineering Informatics 52 (2022): 101627.
 - Xiao, Tong, Xu, Peng, Sha, Huajing, Chen, Zhe, & Gu, Jiefan. (2022). XuPengResearchGroup/EnergyDetective2020_dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6590976
