@@ -1,5 +1,6 @@
 # PerformanceGap-Hybrid-Approach
-Open source code of the paper: A hybrid-model approach for reducing the performance gap in building energy forecasting
+Open source code of the paper: <br>
+*A hybrid-model approach for reducing the performance gap in building energy forecasting*<br>
 https://doi.org/10.1016/j.aei.2022.101627<br>
 Arxiv: http://arxiv.org/abs/2206.00460
 
